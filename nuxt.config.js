@@ -13,6 +13,7 @@ export default {
   },
 
   css: [
+    { src: '~/assets/scss/app.scss', lang: 'scss' },
     'element-ui/lib/theme-chalk/index.css'
   ],
   plugins: [
